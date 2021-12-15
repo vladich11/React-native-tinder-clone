@@ -34,6 +34,6 @@ const LoginScreen = () => {
             </ImageBackground>
         </View>
     )
-}
+};
 
 export default LoginScreen
